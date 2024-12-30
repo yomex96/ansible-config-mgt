@@ -1,5 +1,3 @@
 # ansible-config-mgt 
 
-#author
-
-:abayomi robert onawole
+# author: abayomi robert onawole
